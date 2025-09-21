@@ -6,10 +6,9 @@ Welcome to my GitHub profile! I'm an Aspiring Full-stack Developer based in Sier
 🌱 Currently exploring the latest trends in full-stack development.
 💡 Eager to collaborate on open-source projects and innovative ideas.
 🛠️ Tech Stack:
-Frontend: HTML | CSS | JavaScript(PENDING)
-Backend: PENDING
-Database: PENDING
-Tools & Platforms: GitHub| VS Code
+Frontend: HTML | CSS | JavaScript
+
+Tools & Platforms: GitHub| VS Code 
 📈 GitHub Stats:
 
 ---
