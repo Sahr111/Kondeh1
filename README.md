@@ -20,7 +20,7 @@ Tools & Platforms: GitHub| VS Code
 
 ### 📫 Let's Connect:
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [Email](mailto:your-email@example.com)
 
 ---
 
